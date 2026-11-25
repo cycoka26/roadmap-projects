@@ -3,12 +3,9 @@
 A collection of projects and exercises built while following [roadmap.sh](https://roadmap.sh) learning paths and improving my software development skills.
 
 ## Projects
-
-
-- **JavaScript**
   - [JavaScript foundations](./js-foundations)
-    
-- **Node.js**
+    - [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
+
   - [Node.js CLI](./nodejs-cli)
 
 ## Structure

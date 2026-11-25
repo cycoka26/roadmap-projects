@@ -1,0 +1,12 @@
+# Ignore everything
+../.idea
+
+# Keep the root directory
+!*/
+
+# Keep root README and gitignore
+!/README.md
+!/.gitignore
+
+# Keep roadmap directories
+!/roadmap-projects/
