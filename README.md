@@ -6,6 +6,7 @@ A collection of projects and exercises built while following [roadmap.sh](https:
   - [JavaScript foundations](./js-foundations)
     - [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
     - [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
+    - [Number Checker](https://roadmap.sh/projects/js-number-checker)
   - [Node.js CLI](./nodejs-cli)
 
 ## Structure
