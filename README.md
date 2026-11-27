@@ -8,6 +8,7 @@ A collection of projects and exercises built while following [roadmap.sh](https:
     - [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
     - [Number Checker](https://roadmap.sh/projects/js-number-checker)
     - [String Formatter](https://roadmap.sh/projects/js-string-formatter)
+    - [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
   - [Node.js CLI](./nodejs-cli)
 
 ## Structure
